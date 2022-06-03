@@ -1,3 +1,6 @@
+# Follina, la vulnerabilidad de Microsoft Office CVE-2022-30190
+Follina es una vulnerabilidad de día cero que surge cuando el MSDT (Microsoft Support Diagnostic Tool) es llamado utilizando el protocolo URL de una aplicación como por ejemplo, Microsoft Office Word. Al explotar esta vulnerabilidad, un actor malicioso puede ejecutar código remoto (RCE) con los mismos privilegios de la aplicación.
+
 # KB-Vulnerabilidad-FOLLINA By Mike :)
 
 https://twitter.com/mmonestel1
