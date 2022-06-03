@@ -8,7 +8,7 @@ Color 9F
 mkdir "%~d0%~p0Logs_Programas"
 
 SET rutalogs="%~d0%~p0Logs_Programas\%~n0.txt"
-SET regsave="%~d0%~p0Logs_Programas\%COMPUTERNAME%_Respaldo.reg"
+SET regsave="%~d0%~p0Respaldo_FOLLINA.reg"
 
 echo "Restaurando Regedit %date% %time%" >>%rutalogs% 
 
